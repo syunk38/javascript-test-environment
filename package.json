@@ -1,0 +1,12 @@
+{
+  "name": "javascript-test-environment",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "karma": "^1.6.0",
+    "karma-cli": "^1.0.1",
+    "mocha": "^3.3.0",
+    "power-assert": "^1.4.2"
+  }
+}
